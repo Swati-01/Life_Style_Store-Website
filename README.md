@@ -9,3 +9,7 @@ It is an E-commerce website. Developed using php in backend and mysql database a
 6. Authenticated order confirmation Page.
 7. A Settings Page i which we can change our login password.
 8. A nice Cart Page.
+
+# Screenshots:-
+## Home Page:<br>
+![index page](https://user-images.githubusercontent.com/86122364/151792032-210d907f-70eb-4c2b-b1c1-ae1c9cdefe65.png)
