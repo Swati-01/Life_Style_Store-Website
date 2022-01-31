@@ -11,9 +11,9 @@ It is an E-commerce website. Developed using php in backend and mysql database a
 8. A nice Cart Page.
 
 # Screenshots:-
-## Home Page:<br>
+## Home Page:-<br>
 ![index page](https://user-images.githubusercontent.com/86122364/151792032-210d907f-70eb-4c2b-b1c1-ae1c9cdefe65.png)
-## Product Page:- <br>
+## Product Page:-<br>
 ![product page](https://user-images.githubusercontent.com/86122364/151823215-11a32e53-8be5-47b2-be79-9b3c02e02015.png)
 ## Sign-up Page:-<br>
 ![sign-up page](https://user-images.githubusercontent.com/86122364/151823601-2e4b9cbc-5800-48a4-be85-61f0a769956e.png)
