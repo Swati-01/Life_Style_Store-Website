@@ -12,14 +12,20 @@ It is an E-commerce website. Developed using php in backend and mysql database a
 
 # Screenshots:-
 ## Home Page:-<br>
-![index page](https://user-images.githubusercontent.com/86122364/151792032-210d907f-70eb-4c2b-b1c1-ae1c9cdefe65.png)
+![index page](https://user-images.githubusercontent.com/86122364/151834769-6abae4d8-2615-4be1-ba7b-3cd591c620ce.png)
+
 ## Product Page:-<br>
-![product page](https://user-images.githubusercontent.com/86122364/151823215-11a32e53-8be5-47b2-be79-9b3c02e02015.png)
+![product page](https://user-images.githubusercontent.com/86122364/151836505-9c004fa9-2354-4430-96f6-53ce8dbfbd0e.png)
+
 ## Sign-up Page:-<br>
-![sign-up page](https://user-images.githubusercontent.com/86122364/151823601-2e4b9cbc-5800-48a4-be85-61f0a769956e.png)
+![sign-up page](https://user-images.githubusercontent.com/86122364/151836528-320cd378-1387-4747-892f-c9e26c07d8e2.png)
+
 ## Login Page:-<br>
-![login page](https://user-images.githubusercontent.com/86122364/151823645-fb3f8d9d-19c3-4947-b97d-96cb73aa8da8.png)
+![login page](https://user-images.githubusercontent.com/86122364/151836555-39ade5fc-15b7-472d-baba-b4a1e10fcdab.png)
+
 ## Settings Page:-<br>
-![settings page](https://user-images.githubusercontent.com/86122364/151823694-f3f7b0af-c0e4-4f3f-9c88-21cff642b20e.png)
-## Cart Page:-
-![cart page](https://user-images.githubusercontent.com/86122364/151823322-ecd9158e-9590-4122-804d-936f4bf59f78.png)
+![settings page](https://user-images.githubusercontent.com/86122364/151836544-15b054e9-fc13-425a-8890-4ebeb9e35825.png)
+
+## Cart Page:-<br>
+![cart page](https://user-images.githubusercontent.com/86122364/151836573-aa532ac9-7190-4c45-abb9-d2e068d3400b.png)
+
